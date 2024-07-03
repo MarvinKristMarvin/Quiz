@@ -5,3 +5,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.title-link,
+.title-link:hover {
+  text-decoration: none;
+  color: white;
+}
